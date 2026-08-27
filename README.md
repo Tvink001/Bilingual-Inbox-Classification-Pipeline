@@ -1,4 +1,4 @@
-# Netpeak Request Triage
+# Bilingual Inbox Classification Pipeline
 
 Classifies a free-form inbox of internal requests — Ukrainian and English, arriving via
 Slack, Telegram and email — into a **strict, validated schema** using Claude Haiku 4.5,
